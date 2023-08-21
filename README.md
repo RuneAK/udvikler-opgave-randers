@@ -8,4 +8,4 @@
 
 ###### Optional R and C# basic microservice templated included
 
-For more information on how to use this stack, please see the [HOW-TO](/docs/HOW-TO.md) file.
+To get started, please see the [GETTING-STARTED](/docs/GETTING-STARTED.md) file.
